@@ -24,7 +24,6 @@ SignInNavText/SignUpNavText: These two options control the what the navigation t
 SignInButtonText/SignUpButtonText: These two options control your button text.
 
 */
-
 export default {
   LOGO_URL: "https://crowdbotics-slack-dev.s3.amazonaws.com/media/project_component_resources/cb-icon.png",
   BACKGROUND_URL: "https://crowdbotics-slack-dev.s3.amazonaws.com/media/project_component_resources/halfbg.png",
@@ -33,5 +32,5 @@ export default {
   SignInNavText: "Sign In",
   SignUpNavText: "Sign Up",
   SignInButtonText: "Login",
-  SignUpButtonText: "Sign Up",
+  SignUpButtonText: "Sign Up"
 };
